@@ -53,7 +53,6 @@ const Form = () => {
   };
 
   const handleCancel = () => {
-    // to do
     history.push('/admin/employees');
   };
 
